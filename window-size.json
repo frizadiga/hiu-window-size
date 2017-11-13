@@ -14,5 +14,9 @@
   {
     "name": "835x815",
     "size": {"width": 835,"height": 815}
-  }
+  },
+  {
+    "name": "900x850",
+    "size": {"width": 900,"height": 850}
+  },
 ]
